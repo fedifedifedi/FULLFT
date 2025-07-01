@@ -1,4 +1,4 @@
-# FULLFT
+
 # FULLFT - Analyse de Sentiment avec DistilBERT
 
 Projet d'analyse de sentiment utilisant DistilBERT fine-tuné sur le dataset IMDB, avec une interface web Streamlit.
